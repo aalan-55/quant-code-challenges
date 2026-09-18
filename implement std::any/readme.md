@@ -1,4 +1,4 @@
-## 📌 Exercise 1: Type-Erased Storage with Small-Object Optimization (SOO)
+## Exercise 1: Type-Erased Storage with Small-Object Optimization (SOO)
 
 ### Español
 
